@@ -13,7 +13,7 @@ function logShout(string){
 }
 
 
-function logShout(string){
+function logWhisper(string){
   console.log(whisper());
 }
 
