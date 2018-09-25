@@ -20,10 +20,10 @@ function logShout(string){
 
 
 function sayHiToGrandma(string){
-  if (string === uppercase){
+  if (string === lowercase){
     return "I can\'t hear you!"
   }
-  else if (string === lowercase) {
+  else if (string === uppercase) {
     return "YES INDEED!"
   }
   else if (string === "I love you, Grandma.") {
